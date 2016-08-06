@@ -1,0 +1,24 @@
+{
+  "name": "timeunits",
+  "version": "1.0.1",
+  "description": "An object containing the number of milliseconds for a given time unit (timeunits.day, timeunits.minute, etc.)",
+  "main": "timeunits.js",
+  "scripts": {
+    "test": "echo 'No test is required for this type of module :)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkalen/timeunits.git"
+  },
+  "keywords": [
+    "time",
+    "timeunit",
+    "milliseconds"
+  ],
+  "author": "danielkalen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkalen/timeunits/issues"
+  },
+  "homepage": "https://github.com/danielkalen/timeunits#readme"
+}
