@@ -1,6 +1,6 @@
 {
   "name": "timeunits",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An object containing the number of milliseconds for a given time unit (timeunits.day, timeunits.minute, etc.)",
   "main": "timeunits.js",
   "scripts": {
