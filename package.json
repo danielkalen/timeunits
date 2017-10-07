@@ -1,8 +1,9 @@
 {
   "name": "timeunits",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An object containing the number of milliseconds for a given time unit (timeunits.day, timeunits.minute, etc.)",
   "main": "timeunits.js",
+  "typings": "timeunits.d.ts",
   "scripts": {
     "test": "echo 'No test is required for this type of module :)'"
   },
